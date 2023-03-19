@@ -6,7 +6,7 @@
 </div>
 
 ## Airbnb_DataBase
-En este repositorio comparto un Dashboard interactivo en el cual trabajé con Qlik Sense Saas, sobre una base de datos de alojamientos Airbnb en la Ciudad de Nueva York, que permite explorar las tendencias en esta ciudad.
+En este repositorio comparto un Dashboard interactivo en el cual trabajé con Qlik Sense Saas, sobre una base de datos de alojamientos Airbnb en la Ciudad de Nueva York del año 2009, que permite explorar las tendencias en esta ciudad.
 Esta base de datos fue extraída de Kaggle (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 
 Esta herramienta es ideal para:
