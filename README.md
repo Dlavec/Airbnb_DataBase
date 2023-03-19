@@ -18,7 +18,7 @@ Esta herramienta es ideal para:
 4.Tomar decisiones informadas: con una visualización clara y concisa de los datos, Airbnb puede tomar decisiones informadas sobre la expansión de su negocio y la introducción de nuevos productos o servicios
 
 <div id="header" align="center">
-  <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Dashboard_1.PNG"/>
+  <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Dashboard_0.PNG"/>
   <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Dashboard_2.PNG"/>
   <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Dashboard_3.PNG"/>
   </div>
