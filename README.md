@@ -20,11 +20,11 @@ Esta base de datos fue extraída de Kaggle (https://www.kaggle.com/datasets/dgom
 <div id="header" align="center">
   <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Dashboard_0.PNG"/>
   <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Dashboard_2.PNG"/>
-  <img src=""/>
+  <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Dashboard_4.PNG"/>
   </div>
   
 # Selección Especial Staten Island
 <div id="header" align="center">
-  <img src=""/>
-  <img src=""/>
+  <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Staten_Island.PNG"/>
+  <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Staten_Island_2.PNG"/>
   </div>
