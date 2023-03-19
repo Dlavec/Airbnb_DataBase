@@ -25,6 +25,6 @@ Esta base de datos fue extraída de Kaggle (https://www.kaggle.com/datasets/dgom
   
 # Selección Especial Staten Island
 <div id="header" align="center">
-  <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Staten_Island.png"/>
-  <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Staten_Island_2.png"/>
+  <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Staten_Island_0.png"/>
+  <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Staten_Island_1.png"/>
   </div>
