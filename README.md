@@ -20,5 +20,5 @@ Esta herramienta es ideal para:
 <div id="header" align="center">
   <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Dashboard_0.PNG"/>
   <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Dashboard_2.PNG"/>
-  <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Dashboard_3.PNG"/>
+  <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Dashboard_4.PNG"/>
   </div>
