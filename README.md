@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=""/>
+  <img src="https://github.com/Dlavec/Airbnb_DataBase/blob/main/Images/Presentacion_airbnb.PNG"/>
   <h1 align="center">Que bueno verte!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
